@@ -7,6 +7,8 @@
 
 Este proyecto se centra en la simulación de escenarios del mundo real mediante el análisis de conjuntos de datos no estructurados e incompletos para extraer ideas significativas. 
 
+Se analizan los datos de BODEGAS S.L, empresa vitivinícola en la que se utilizó la base de datos obtenida sobre las ventas  a diversos clientes durante los años 2021, 2022 y 2023 
+
 Utilizando Power BI, el proyecto examina la demanda de productos, identifica tendencias y proporciona recomendaciones prácticas para mejorar las operaciones empresariales y la planificación estratégica.
 
 # Objetivo y necesidad
@@ -16,6 +18,7 @@ El objetivo principal de este proyecto es ir más allá de los conjuntos de dato
 Este enfoque ayuda a identificar retos y oportunidades en el entorno empresarial, ampliando así los límites de los métodos tradicionales de análisis de datos.
 
 # Impulsores e importancia para las empresas
+
 El proyecto responde a la necesidad de las empresas de comprender sus datos de ventas de forma exhaustiva, especialmente cuando se trata de información incompleta.
 
 Al centrarse en la demanda más que en los ingresos, debido a la falta de datos sobre costes, el proyecto pretende descubrir valiosas perspectivas sobre el comportamiento de los clientes y el rendimiento de los productos. Este conocimiento es crucial para la toma de decisiones estratégicas y la mejora del rendimiento global de la empresa.
