@@ -7,7 +7,7 @@
 Te dejo el enlace al Dashboard al final de esta página.
 
 
-# Resumen
+# 1. Resumen
 
 Este proyecto se centra en la simulación de escenarios del mundo real mediante el análisis de conjuntos de datos no estructurados e incompletos para extraer ideas significativas. 
 
@@ -16,19 +16,19 @@ Se analizan los datos de BODEGAS S.L, empresa vitivinícola en la que se utiliz�
 Utilizando Power BI, el proyecto examina la demanda de productos, identifica tendencias y proporciona recomendaciones prácticas para mejorar las operaciones empresariales y la planificación estratégica.
 
 
-# Objetivo y necesidad
+# 2. Objetivo y necesidad
 
 El objetivo principal de este proyecto es ir más allá de los conjuntos de datos bien estructurados y manejar datos más complejos del mundo real para comprender mejor la demanda de productos. 
 
 Este enfoque ayuda a identificar retos y oportunidades en el entorno empresarial, ampliando así los límites de los métodos tradicionales de análisis de datos.
 
-# Impulsores e importancia para las empresas
+# 3. Impulsores e importancia para las empresas
 
 El proyecto responde a la necesidad de las empresas de comprender sus datos de ventas de forma exhaustiva, especialmente cuando se trata de información incompleta.
 
 Al centrarse en la demanda más que en los ingresos, debido a la falta de datos sobre costes, el proyecto pretende descubrir valiosas perspectivas sobre el comportamiento de los clientes y el rendimiento de los productos. Este conocimiento es crucial para la toma de decisiones estratégicas y la mejora del rendimiento global de la empresa.
 
-# Beneficios y costes
+# 4. Beneficios y costes
 Beneficios:
 
 - Mejora de la planificación estratégica y la asignación de recursos.
@@ -43,7 +43,7 @@ Costes:
 
 - Posible necesidad de fuentes de datos adicionales para colmar las lagunas del conjunto de datos existente.
 
-# Método de ejecución
+# 5. Método de ejecución
 
 El proyecto consta de varias fases clave:
 
@@ -51,7 +51,7 @@ El proyecto consta de varias fases clave:
 - Transformación de datos: Utilización de herramientas como columnas de desagregación y creación de tablas puente para conectar diferentes fuentes de datos.
 - Análisis y visualización: Desarrollo de cuadros de mando para visualizar tendencias de ventas, rendimiento ejecutivo y segmentación de productos.
 
-# El proyecto se estructura en varias fases:
+# 6. El proyecto se estructura en varias fases:
 
 1.Importación y limpieza de datos 
 
@@ -61,12 +61,12 @@ El proyecto consta de varias fases clave:
 
 4.Análisis y elaboración de informes 
 
-# Requisitos
+# 7. Requisitos
 
 - Acceso a datos de ventas relevantes, incluyendo categorías de productos, canales de venta y detalles de clientes.
 - Power BI para visualización y análisis de datos.
 
-# Resultados esperados
+# 8. Resultados esperados
 
 - Visión de las tendencias de ventas: Visualización clara de cómo cambian los volúmenes de ventas a lo largo del tiempo e identificación de los periodos de mayores ventas.
 
@@ -77,7 +77,7 @@ El proyecto consta de varias fases clave:
 - Métricas de rendimiento ejecutivo: Evaluación de los ejecutivos de ventas en función de sus métricas de rendimiento.
 
 
-# Limitaciones del proyecto
+# 9. Limitaciones del proyecto
 
 - Falta de datos sobre precios y costes: El conjunto de datos no incluye información sobre precios de venta, costes y otros detalles financieros, lo que impide analizar los ingresos.
 
@@ -86,7 +86,7 @@ El proyecto consta de varias fases clave:
 - Información sobre los clientes: No se dispone de información demográfica detallada sobre los clientes (por ejemplo, edad, profesión, sexo) que permita una segmentación más precisa y estrategias de marketing específicas.mejora.
 
 
-# Resumen de conclusiones
+# 10. Resumen de conclusiones
 
 - Tendencia a la baja de las ventas: El volumen de ventas disminuye año tras año.
   
@@ -96,7 +96,7 @@ El proyecto consta de varias fases clave:
 
 - Categorías de productos: Los vinos dominan las ventas, seguidos de las bebidas espirituosas.
 
-# Recomendaciones
+# 11. Recomendaciones
 
 - Gestión de existencias: Asegurar un stock adecuado en el primer trimestre para satisfacer la alta demanda.
   
