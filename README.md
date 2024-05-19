@@ -2,6 +2,10 @@
 
 ![image](https://github.com/datacanovas/-An-lisis-y-perspectivas-de-la-demanda-de-productos-BODEGAS-S.L/assets/157279064/e9c18285-258a-4d53-a511-baed5875aacf)
 
+# Enlace al Dashboard
+
+Te dejo el enlace al Dashboard al final de esta página.
+
 
 # Resumen
 
@@ -10,6 +14,7 @@ Este proyecto se centra en la simulación de escenarios del mundo real mediante 
 Se analizan los datos de BODEGAS S.L, empresa vitivinícola en la que se utilizó la base de datos obtenida sobre las ventas  a diversos clientes durante los años 2021, 2022 y 2023 
 
 Utilizando Power BI, el proyecto examina la demanda de productos, identifica tendencias y proporciona recomendaciones prácticas para mejorar las operaciones empresariales y la planificación estratégica.
+
 
 # Objetivo y necesidad
 
@@ -106,3 +111,7 @@ El proyecto consta de varias fases clave:
 Siguiendo estas recomendaciones, la empresa puede mejorar su planificación estratégica, optimizar la asignación de recursos y, en última instancia, impulsar un mejor rendimiento de las ventas.
 
 Esta descripción exhaustiva del proyecto garantiza que todas las partes interesadas comprendan claramente el alcance, los objetivos y los resultados esperados del proyecto, sentando una base sólida para una ejecución satisfactoria y una mejora continua.
+
+# Dashboard
+
+https://app.powerbi.com/view?r=eyJrIjoiYTk2ZGEzZjUtMzM3NS00Zjg3LThhNWYtNjFkNzBmYWE2MjRlIiwidCI6IjU1OWEwYThhLWExMTEtNGM4OS1iMmM0LWM0YjkyZDYyNjlkOSIsImMiOjl9&pageName=ReportSectionad8c63cc4d7b07659db4
